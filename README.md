@@ -31,15 +31,4 @@ Example workflow:
 4. Staff logs in and updates the complaint status to Assigned.
 5. Staff views complaint statistics and escalation alerts.
 
-### 1. Citizen Complaint Registration
-![Citizen Output](demo%20output/citizen.png)
 
-### 2. Staff Login and Complaint Management
-![Staff Output](demo%20output/staff.png)
-
-### 3. Complaint Statistics
-![Statistics Output](demo%20output/statistic.png)
-
-![Statistics Output 2](demo%20output/statistic1.png)
-
-![Statistics Output 3](demo%20output/statistic2.png)
